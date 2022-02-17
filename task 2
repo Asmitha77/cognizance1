@@ -1,6 +1,17 @@
+Question 1:
+* declare the variables(a,b,c,n)
+* display the (Enter the number)
+* get input form user
+* divide each index form index 0 ti index n by 10
+* add all the index
+* if it is divisile by 3 
+     true
+* else
+      false
+      
 
 Question 2:
-*declare (a,b,c,d,n)
+* declare (a,b,c,d,n)
 * display the output ("Enter the N value")
 * get input n from user
 * assign a=-1 , b=0 , c=1 and i=0
