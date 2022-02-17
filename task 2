@@ -1,7 +1,0 @@
-* declare (a,b,c,d,n)
-* display the output ("Enter the N value")
-* get input n from user
-* assign a=-1 , b=0 , c=1 and i=0
-* while ( d<N)
-    assign a=b ,b=c, c=a+b
-* print b
